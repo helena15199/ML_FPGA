@@ -1,0 +1,14 @@
+.agent
+.codex
+.Xil
+.venv
+.vscode
+lattice/build
+lattice/build_logs
+paper/build
+vivado/build
+vivado/build_logs
+vivado/ip_repo
+paper
+/data/
+__pycache__/

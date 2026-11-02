@@ -1,0 +1,5 @@
+ldc_set_location -site {25} [get_ports uart_tx]
+ldc_set_location -site {23} [get_ports uart_rx]
+
+ldc_set_port -iobuf {IO_TYPE=LVCMOS33} [get_ports uart_tx]
+ldc_set_port -iobuf {IO_TYPE=LVCMOS33} [get_ports uart_rx]

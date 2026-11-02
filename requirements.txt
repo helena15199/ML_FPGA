@@ -1,0 +1,15 @@
+# Python >= 3.10. Dépendances utilisées par les scripts et notebooks sur l'hôte.
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+torch
+pyserial
+jupyterlab
+ipykernel
+seaborn
+plotly
+ipywidgets
+
+# Le notebook Ultra96 utilise pynq, à installer sur la carte avec son image PYNQ.
